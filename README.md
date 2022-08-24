@@ -1,0 +1,14 @@
+# kltexx-user 6.0.1 MMB29M G900FXXS1CQD4 release-keys
+- manufacturer: samsung
+- platform: msm8974
+- codename: klte
+- flavor: kltexx-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: G900FXXS1CQD4
+- tags: release-keys
+- fingerprint: samsung/kltexx/klte:6.0.1/MMB29M/G900FXXS1CQD4:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: kltexx-user-6.0.1-MMB29M-G900FXXS1CQD4-release-keys
+- repo: samsung_klte_dump
